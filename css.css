@@ -1,0 +1,18 @@
+main{
+	width: 80%;
+	margin: 0 auto;
+	background: red;
+}
+header{
+	width: 40%;
+	float: left;
+	background: blue;
+	height: 20vh;
+}
+
+section{
+	width: 60%;
+	margin-left: 30%;
+	background: green;
+	height: 20vh;
+}
